@@ -1,7 +1,11 @@
 # Noely-Music-Bot
 Noely feita para animar seu servidor tocando em muitas plataformas digitais.
 
-# Commands
+# Importante
+Entre no meu servidor para suporte caso encontre algum bug ou erro talvez você ganhe uma recompensa.
+https://discord.gg/noely
+
+# Comandos
 
 ``・setprefix - Custumize o prefixo no seu servidor;``
 
@@ -62,6 +66,3 @@ Noely feita para animar seu servidor tocando em muitas plataformas digitais.
 ``・removedj - Remover cargo DJ;``
 
 ``・toggledj - Ativar Modo DJ.``
-
-# Important
-Entre no meu servidor para suporte caso encontre algum bug ou erro talvez você ganhe uma recompensa.
