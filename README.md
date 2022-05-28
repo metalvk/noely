@@ -4,6 +4,7 @@ Noely feita para animar seu servidor tocando em muitas plataformas digitais.
 # Commands
 
 ``・setprefix - Custumize o prefixo no seu servidor;``
+
 ・about - Mostrar informação do projeto;
 ・help - Descubra todos meus comandos;
 ・invite - Convide a Noely para o seu servidor;
